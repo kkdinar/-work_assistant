@@ -1,0 +1,9 @@
+{
+  "name": "work_assistant",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "2.11.0",
+    "sequelize": "5.21.4",
+    "sqlite3": "^4.1.1"
+  }
+}
